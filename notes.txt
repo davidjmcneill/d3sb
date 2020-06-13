@@ -1,0 +1,14 @@
+set up your attack sequence beginning on line 464
+
+set up your sarkoth movement sequence on line 1077
+
+refer to the wizard and witch doctor sequences
+
+enter your information in userdata.ini
+
+How to use..
+Once the above is finished,
+1) Click d3sb.exe
+2) select run bot. 
+3) Hope for all to go well! haha.
+4) $$$$$
